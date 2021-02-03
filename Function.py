@@ -1,3 +1,8 @@
+"""
+    One can defince any sort of mathemathecal function by following
+    the same patterns as the already defined functions (Sigmoid, Relu, MeanSquare)
+"""
+
 import numpy as np
 
 class Sigmoid:
